@@ -1,3 +1,0 @@
-{
-  "Sprint_7/tests/test_courier_login.py::TestCourierLogin::test_login_missing_field[password]": true
-}
