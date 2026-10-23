@@ -39,6 +39,7 @@ allure serve allure-results
 allure generate allure-results -o allure-report --clean
 ```
 
+
 ## Ручная проверка в Postman
 
 1. Импортируй `postman/Sprint_7.postman_collection.json`.
